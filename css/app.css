@@ -135,7 +135,8 @@
   flex-direction: row;
   justify-content: space-between;
 
-  margin: 108px auto 132px auto;
+  margin: 48px auto 132px auto;
+  padding-top: 108px;
 }
 
 .footer-img {
