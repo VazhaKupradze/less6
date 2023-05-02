@@ -123,17 +123,19 @@
   margin: 0 16px;
 }
 
-.footer-marge {
-  width: 1306;
+.footer {
   background-color: #53535354;
-
+  height: 459px;
   margin: 0 auto;
+}
 
+.footer-marge {
+  width: 1306px;
   display: flex;
+  flex-direction: row;
   justify-content: space-between;
-  flex-wrap: wrap;
 
-  padding: 108px 77px 132px 57px;
+  margin: 108px auto 132px auto;
 }
 
 .footer-img {
