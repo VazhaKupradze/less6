@@ -242,8 +242,15 @@
 .button-text {
   width: 48px;
   height: 17px;
-  color: #f2f4f7;
   margin: 14px auto;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #ffffff;
 }
 
 .button {
